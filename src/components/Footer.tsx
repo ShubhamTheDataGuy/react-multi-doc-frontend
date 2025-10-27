@@ -18,7 +18,7 @@ export function Footer() {
             </p>
             <div className="flex gap-4 mt-6">
               <a
-                href="#"
+                href="https://github.com/ShubhamTheDataGuy"
                 className="p-2 hover:bg-gray-800 rounded-lg transition-colors"
               >
                 <Github className="w-5 h-5" />
@@ -30,7 +30,7 @@ export function Footer() {
                 <Twitter className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="mailto:shubhamnagpal789@gmail.com"
                 className="p-2 hover:bg-gray-800 rounded-lg transition-colors"
               >
                 <Mail className="w-5 h-5" />
@@ -48,12 +48,12 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-white transition-colors">
+                <a href="https://github.com/ShubhamTheDataGuy/multi_doc_project" className="hover:text-white transition-colors">
                   Documentation
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-white transition-colors">
+                <a href="https://github.com/ShubhamTheDataGuy/react-multi-doc-frontend" className="hover:text-white transition-colors">
                   GitHub
                 </a>
               </li>
